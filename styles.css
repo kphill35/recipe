@@ -1,0 +1,33 @@
+h1 {
+	padding-top: 40px;
+	text-align: center;
+
+}
+
+h1 a {
+	text-decoration: none;
+}
+nav {
+	text-align: center;
+	font-size: 24px;
+}
+
+nav li {
+	display: inline-block;
+	list-style-type: none;
+	
+}
+
+nav a {
+	display: block;
+	padding: 16px;
+	text-align: center;
+	font-weight: bold;
+	color: #705D6D;
+	text-decoration: none;
+}
+
+p {
+	font-size: 20px;
+	margin-bottom: 60px;
+}
